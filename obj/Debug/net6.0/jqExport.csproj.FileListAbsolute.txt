@@ -1,0 +1,57 @@
+C:\Users\maher\source\repos\jqExport\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maher\source\repos\jqExport\bin\Debug\net6.0\appsettings.json
+C:\Users\maher\source\repos\jqExport\bin\Debug\net6.0\jqExport.staticwebassets.runtime.json
+C:\Users\maher\source\repos\jqExport\bin\Debug\net6.0\jqExport.exe
+C:\Users\maher\source\repos\jqExport\bin\Debug\net6.0\jqExport.deps.json
+C:\Users\maher\source\repos\jqExport\bin\Debug\net6.0\jqExport.runtimeconfig.json
+C:\Users\maher\source\repos\jqExport\bin\Debug\net6.0\jqExport.dll
+C:\Users\maher\source\repos\jqExport\bin\Debug\net6.0\jqExport.pdb
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\jqExport.csproj.AssemblyReference.cache
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\jqExport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\jqExport.AssemblyInfoInputs.cache
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\jqExport.AssemblyInfo.cs
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\jqExport.csproj.CoreCompileInputs.cache
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\jqExport.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\jqExport.RazorAssemblyInfo.cache
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\jqExport.RazorAssemblyInfo.cs
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\scopedcss\bundle\jqExport.styles.css
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\scopedcss\projectbundle\jqExport.bundle.scp.css
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\jqExport.dll
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\refint\jqExport.dll
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\jqExport.pdb
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\jqExport.genruntimeconfig.cache
+C:\Users\maher\source\repos\jqExport\obj\Debug\net6.0\ref\jqExport.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\bin\Debug\net6.0\appsettings.Development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\bin\Debug\net6.0\appsettings.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\bin\Debug\net6.0\jqExport.staticwebassets.runtime.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\bin\Debug\net6.0\jqExport.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\bin\Debug\net6.0\jqExport.deps.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\bin\Debug\net6.0\jqExport.runtimeconfig.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\bin\Debug\net6.0\jqExport.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\bin\Debug\net6.0\jqExport.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\jqExport.csproj.AssemblyReference.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\jqExport.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\jqExport.AssemblyInfoInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\jqExport.AssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\jqExport.csproj.CoreCompileInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\jqExport.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\jqExport.RazorAssemblyInfo.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\jqExport.RazorAssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\staticwebassets\msbuild.jqExport.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\staticwebassets\msbuild.build.jqExport.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.jqExport.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.jqExport.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\staticwebassets.build.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\staticwebassets.development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\scopedcss\bundle\jqExport.styles.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\scopedcss\projectbundle\jqExport.bundle.scp.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\jqExport.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\refint\jqExport.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\jqExport.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\jqExport.genruntimeconfig.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\jqExport\obj\Debug\net6.0\ref\jqExport.dll
